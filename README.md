@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek020621&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek020621" /> </p>
 
-- 🔭 I’m currently working on **Live projects as an Intern**
+- 🔭 I’m currently working on ** Front-end Live projects as an Intern**
 
-- 🌱 I’m currently learning **ReactJS, NextJs, NodeJS**
+- 🌱 I’m currently learning **ReactJS, NextJs, Back-end**
 
 - 💬 Ask me about **HTML, CSS, JS, MATERIAL UI**
 
