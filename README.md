@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Live projects as an Intern**
 
-- 🌱 I’m currently learning **ReactJS, NodeJs, NodeJS**
+- 🌱 I’m currently learning **ReactJS, NextJs, NodeJS**
 
 - 💬 Ask me about **HTML, CSS, JS, MATERIAL UI**
 
