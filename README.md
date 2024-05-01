@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center"> Software Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek020621&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek020621" /> </p>
 
-- 🔭 I’m currently working on ** Front-end Live projects as an Intern**
+- 🔭 I’m currently working on ** Power Apps as SDE Intern **
 
-- 🌱 I’m currently learning **ReactJS, NextJs, Back-end**
+- 🌱 I’m currently learning **Power Apps powered by Microsoft**
 
-- 💬 Ask me about **HTML, CSS, JS, MATERIAL UI**
+- 💬 Ask me about **Frontend , Power Apps , DSA**
 
 - 📫 How to reach me **abhishek020621@gmail.com**
 
-- ⚡ Fun fact **I have a good sense of humour :)**
+- ⚡ Fun fact **Life is a code :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
